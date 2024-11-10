@@ -1,5 +1,7 @@
 # Case-Study-AquaFizz-Beverage-Startup-Excel-
 
+![image alt](https://github.com/Nikhil414/Case-Study-AquaFizz-Beverage-Startup-Excel-/blob/c4383d55b544af5b5b289ee34fc042d751d4c72a/Picture1.png)
+
 
 Analyze employee working hours to ensure compliance with company policies and optimize productivity.
 
